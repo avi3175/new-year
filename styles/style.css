@@ -8,7 +8,8 @@
     margin-top: -450px;
     font-size: 25px;
     font-weight: 500;
-    color: wheat;
+    color:#FFFFFF;
+    font-family: work sans;
 }
 .banner-image{
     width:1349px;
@@ -17,23 +18,35 @@
 .banner-paragraph{
     font-size: 15px;
     font-weight: 500;
-    margin-right:180px;
+    margin-right:125px;
     margin-top: 10px;
-    color: wheat;
+    color:#FFFFFF;
     text-align: right;
+    font-family: work sans;
 }
 .submit{
     background-color:steelblue;
-    color: wheat;
+    color:#FFFFFF;
     font-size: 15px;
-    margin-left: 1030px;
+    margin-left: 1080px;
     margin-top: 50px;
     display: inline-block; 
     padding:15px 35px;
     border-radius: 5px;
     text-align: right;
+    font-family: work sans;
+}
+.second-paragraph h1{
+    color: #151414;
 }
 
+.second-paragraph p{
+    color: #444343;
+
+}
+.list{
+    color: #444343;
+}
 /* MAIN SECTION STYLE */
 
 .my-failure{
@@ -47,6 +60,7 @@
     margin-top: 200px;
     font-size: 20px;
     font-weight: 500;
+    font-family: work sans;
 }
 .second-paragraph li{
     list-style: none;
@@ -58,6 +72,7 @@
     color: black;
     text-align: center;
     margin-bottom: 100px;
+    font-family: work sans;
 }
 /* MY PLANS SECTION STYLE */
 .my-plans{
@@ -79,7 +94,7 @@
 .image-set{
     margin-left: 35px;
     padding-top: 30px;
-    color: wheat;
+    color:#FFFFFF
     
 }
 .submit-second{
@@ -90,7 +105,8 @@
     font-size: 12px;
 } 
 .image-set h1{
-    font-size: 25px
+    font-size: 25px;
+    font-family: work sans;
 }
 /* FOOTER STYLES */
 
@@ -104,15 +120,17 @@
 .future{
     padding-top: 100px;
     margin-left: 100px;
-    color:aliceblue
+    color: #FFFFFF;
 }
 .future h3{
     font-size: 30px;
+    font-family: work sans;
 }
 .subscribe{
     padding-top: 100px;
     margin-right: 100px;
-    color:aliceblue
+    color: #FFFFFF;
+
 }
 form input {
     width: 200px;
@@ -130,6 +148,7 @@ form input[type='email']{
     border-radius: 5px;
     font-size: 12px;
     margin-top: 35px;
+    font-family: work sans;
 }
 a{
     text-decoration: none;
