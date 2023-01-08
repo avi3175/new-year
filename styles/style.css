@@ -1,0 +1,136 @@
+/* HEADER SECTION STYLE */
+
+*{
+    margin: 0;
+}
+.banner-heading{
+    margin-left: 850px;
+    margin-top: -450px;
+    font-size: 25px;
+    font-weight: 500;
+    color: wheat;
+}
+.banner-image{
+    width:1349px;
+    height:538.5px;
+}
+.banner-paragraph{
+    font-size: 15px;
+    font-weight: 500;
+    margin-right:180px;
+    margin-top: 10px;
+    color: wheat;
+    text-align: right;
+}
+.submit{
+    background-color:steelblue;
+    color: wheat;
+    font-size: 15px;
+    margin-left: 1030px;
+    margin-top: 50px;
+    display: inline-block; 
+    padding:15px 35px;
+    border-radius: 5px;
+    text-align: right;
+}
+
+/* MAIN SECTION STYLE */
+
+.my-failure{
+    display: flex;
+    justify-items: center; 
+    justify-content: center;
+    margin-top: 200px;
+    margin-bottom: 50px;
+}
+.second-paragraph{
+    margin-top: 200px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.second-paragraph li{
+    list-style: none;
+}
+.plan{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    margin-bottom: 100px;
+}
+/* MY PLANS SECTION STYLE */
+.my-plans{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    gap: 150px;
+    margin-bottom: 100px;
+}
+.mind-set{
+    background-image: url(../images/gradient1.png),url(../images/watch.png);
+    background-size:cover;
+    height: 180px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 100px;
+    border-radius: 5px;
+}
+.image-set{
+    margin-left: 35px;
+    padding-top: 30px;
+    color: wheat;
+    
+}
+.submit-second{
+    padding: 15px 30px;
+    background-color: steelblue;
+    color: wheat;
+    border-radius: 5px;
+    font-size: 12px;
+} 
+.image-set h1{
+    font-size: 25px
+}
+/* FOOTER STYLES */
+
+.footer{
+    background-color: rgb(36, 33, 33);
+    width:1349px;
+    height: 500px;
+    display: flex;
+    justify-content:space-between;
+}
+.future{
+    padding-top: 100px;
+    margin-left: 100px;
+    color:aliceblue
+}
+.future h3{
+    font-size: 30px;
+}
+.subscribe{
+    padding-top: 100px;
+    margin-right: 100px;
+    color:aliceblue
+}
+form input {
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+}
+form input[type='email']{
+    color: steelblue;
+    padding-left: 15px;
+}
+.submit-third{
+    padding: 15px 30px;
+    background-color: steelblue;
+    color: wheat;
+    border-radius: 5px;
+    font-size: 12px;
+    margin-top: 35px;
+}
+a{
+    text-decoration: none;
+}
